@@ -17,7 +17,7 @@ Hardware: ESP32-CAM
 <br>
 Programming Language: Python
 <br>
-Libraries & Tools: OpenCV,Tesseract OCR,NumPy,Flask (for server)
+Libraries & Tools: OpenCV,Tesseract OCR,NumPy,Versel (for server)
 <br>
 Database: MongoDB
 <br>
